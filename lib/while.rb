@@ -6,4 +6,4 @@ def using_while
   #your code here
 end
 
-
+puts "You've casted this spell #{levitation_force}"
